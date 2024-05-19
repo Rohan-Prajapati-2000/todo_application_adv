@@ -3,23 +3,14 @@
 # About this application
 
 About this application
-The Todo app is a simple yet powerful tool designed to help users organize their tasks and increase
-productivity. With its intuitive interface and robust features, users can effortlessly manage their
-daily, weekly, and long-term tasks with ease.<br><br>
-
-Key features of the Todo app include task creation, editing, and deletion, along with the ability to
-set deadlines and reminders for each task. Users can categorize tasks into different lists or
-categories to further organize their workflow. The app also supports real-time synchronization
-across multiple devices, ensuring that users have access to their tasks anytime, anywhere.<br><br>
-
-One of the standout features of the Todo app is its flexibility and customization options. Users can
-personalize their experience by choosing from various themes, layouts, and color schemes to suit
-their preferences. Additionally, the app offers seamless integration with other productivity tools
-and platforms, making it a versatile solution for individuals, teams, and organizations alike.<br><br>
-
-Whether you're a busy professional, a student juggling multiple assignments, or simply someone
-looking to stay organized, the Todo app is the perfect companion to help you stay on top of your
-tasks and achieve your goals efficiently.<br>
+The To-Do App is a user-friendly task management tool designed to help you stay organized and
+productive. It lets you easily create, update, and delete tasks, set reminders with push
+notifications when app is open, and securely store your data locally and with Firebase for seamless sync across
+devices. You can personalize the app with customizable themes and ensure your data is safe with
+strong user authentication. The app supports real-time updates for collaborative projects, making it
+perfect for managing personal tasks, work-related deadlines, event planning, and goal setting. With
+its focus on accessibility, the To-Do App is designed for everyone. Download by below link and take control of
+your tasks!<br>
 
 # How to run this application in your system
 
